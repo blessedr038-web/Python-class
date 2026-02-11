@@ -27,4 +27,5 @@ print(countries)
 print(student)
 print(student.get("firstname"))
 
-#Typecasting
+#Typecasting - Converting from one data type to another
+print(int(temperature))
